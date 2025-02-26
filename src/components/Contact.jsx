@@ -22,7 +22,7 @@ const Contact = () => {
           <a href="https://www.facebook.com/ajay.jawade.562/" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.linkedin.com/in/ajujawade/" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/ajayjawade06/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
           <a href="https://x.com/ajujawade" target="_blank" className="items">
